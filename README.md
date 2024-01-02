@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" alt="AnjaliPrincess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Anjali Princess BOT </b>
 </h1>
 
 ## ⚡️Features
